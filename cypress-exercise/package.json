@@ -1,0 +1,13 @@
+{
+  "name": "cypress-exercise",
+  "version": "1.0.0",
+  "description": "Bài tập kiểm thử E2E với Cypress - Trang web saucedemo.com",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
